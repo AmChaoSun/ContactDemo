@@ -1,0 +1,9 @@
+D:\Projects\ContactDemo\ContactDemo.Domain\bin\Debug\netstandard2.0\ContactDemo.Domain.deps.json
+D:\Projects\ContactDemo\ContactDemo.Domain\bin\Debug\netstandard2.0\ContactDemo.Domain.dll
+D:\Projects\ContactDemo\ContactDemo.Domain\obj\Debug\netstandard2.0\ContactDemo.Domain.AssemblyInfoInputs.cache
+D:\Projects\ContactDemo\ContactDemo.Domain\obj\Debug\netstandard2.0\ContactDemo.Domain.AssemblyInfo.cs
+D:\Projects\ContactDemo\ContactDemo.Domain\bin\Debug\netstandard2.0\ContactDemo.Domain.pdb
+D:\Projects\ContactDemo\ContactDemo.Domain\obj\Debug\netstandard2.0\ContactDemo.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\ContactDemo\ContactDemo.Domain\obj\Debug\netstandard2.0\ContactDemo.Domain.dll
+D:\Projects\ContactDemo\ContactDemo.Domain\obj\Debug\netstandard2.0\ContactDemo.Domain.pdb
+D:\Projects\ContactDemo\ContactDemo.Domain\obj\Debug\netstandard2.0\ContactDemo.Domain.csprojAssemblyReference.cache

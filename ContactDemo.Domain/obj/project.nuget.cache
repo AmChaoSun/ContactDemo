@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6VBnLwHjSLJI/4dcTHSvhfwn/dfqIayadyUOPthUIgyukLjBerMcOmHALO1Pz/3svLLKeKmmRQ1EW0dG/FIeQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\ContactDemo\\ContactDemo.Domain\\ContactDemo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\61452\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\61452\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\61452\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
